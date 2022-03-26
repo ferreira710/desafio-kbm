@@ -68,7 +68,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
     <form method="get">
       <div class="input-group justify-content-end">
         <div class="form-outline">
-        <input type="text" name="busca" class="form-control" />
+        <input type="text" name="busca" class="form-control" placeholder="Buscar CPF">
         </div>
         <button style="height:38px" type="submit" class="btn btn-success">
         <i class="fa fa-search"></i>
