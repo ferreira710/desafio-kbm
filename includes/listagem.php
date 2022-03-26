@@ -64,7 +64,20 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
     <?php  if (isset($_SESSION['loggedin'])) : ?>
         <a class="btn btn-danger right" href="logout.php" role="button">Logout</a>
     <?php endif ?>
+
+    <form method="get">
+      <div class="input-group justify-content-end">
+        <div class="form-outline">
+        <input type="text" name="busca" class="form-control" />
+        </div>
+        <button style="height:38px" type="submit" class="btn btn-success">
+        <i class="fa fa-search"></i>
+        </button>
+        </div>
+    </form>
+
   </section>
+
 
   <section style="text-align: center">
     <div class="table-responsive text-nowrap">

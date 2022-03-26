@@ -12,6 +12,9 @@
     <script src="public\js\mask.js" type="text/javascript"></script>
     <script src="public\js\jquery.mask.js" type="text/javascript"></script>
 
+    <!-- Buscar por ID -->
+    <script src="public\js\busca.js" type="text/javascript"></script>
+
 
   </body>
 </html>
