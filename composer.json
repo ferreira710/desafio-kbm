@@ -1,0 +1,11 @@
+{
+  "name": "ferreira/clientes",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "igorescobar/jquery-mask-plugin": "^1.14"
+  }
+}
