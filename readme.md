@@ -1,6 +1,4 @@
-# Sistema de cadastro de clientes feito em PHP e MySQL
-# Frontend - Bootstrap 4.6
-# JQuery
+# Sistema de cadastro de clientes feito em PHP, MySQL, BootStrap 4.6 e JQuery
 
 ## Banco de dados
 
@@ -26,7 +24,7 @@ PRIMARY KEY (`id`)
 ) ENGINE = InnoDB AUTO_INCREMENT = 7 DEFAULT CHARSET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci
 ```
 
-======================================================================================================
+============================================================================================
 
  `usuario`:
 ```sql
@@ -42,7 +40,7 @@ CREATE TABLE `usuario` (
 ) ENGINE = InnoDB AUTO_INCREMENT = 22 DEFAULT CHARSET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci
 ```
 
-======================================================================================================
+============================================================================================
 
 ## Configuração
 
