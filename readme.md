@@ -1,5 +1,7 @@
 # Sistema de cadastro de clientes feito em PHP, MySQL, BootStrap 4.6 e JQuery
 
+============================================================================================
+
 ## Banco de dados
 
 Crie um banco de dados e execute as instruções SQLs abaixo para criar as tabelas:
